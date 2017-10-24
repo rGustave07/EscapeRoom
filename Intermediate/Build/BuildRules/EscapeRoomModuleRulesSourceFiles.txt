@@ -1,0 +1,3 @@
+C:\Users\Ritter Gustave\source\repos\EscapeRoom\Source\EscapeRoom\EscapeRoom.Build.cs
+C:\Users\Ritter Gustave\source\repos\EscapeRoom\Source\EscapeRoom.Target.cs
+C:\Users\Ritter Gustave\source\repos\EscapeRoom\Source\EscapeRoomEditor.Target.cs
